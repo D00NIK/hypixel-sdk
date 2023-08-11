@@ -1,0 +1,12 @@
+{
+  "name": "hypixel-sdk",
+  "author": "D00NIK",
+  "version": "1.0.0",
+  "description": "HypixelAPI SDK generated with OpenAPI SDK generator.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "license": "MIT"
+}
